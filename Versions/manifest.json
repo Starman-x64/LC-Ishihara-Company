@@ -1,6 +1,6 @@
 {
     "name": "Ishihara_Company",
-    "version_number": "0.1.0",
+    "version_number": "1.0.0",
     "website_url": "https://github.com/Starman-x64/LC-Ishihara-Company",
     "description": "Client-side mod that adjusts view monitor colours for colour-blind employees.",
     "dependencies": [

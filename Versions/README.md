@@ -1,4 +1,4 @@
-# Ishihara Company v1.0.0
+# Ishihara Company v1.0.1
 ### Client-side modification that adjusts view monitor colours for colour-blind employees.
 
 This modification changes the red dots and door codes on the view monitor to magenta/hot pink to assist employees with red-green colour vision deficiency (specifically deuteranopia). This will also affect any additional modifications which provide an alternate method to access the view monitor (e.g. minimaps). We trust you will now be a greater asset to the company.
